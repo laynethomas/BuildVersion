@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
 namespace BuildVersion
 {
-    public class Program
+    public class Version
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Version unknown");
+            Console.WriteLine("Hello Version");
         }
     }
 }
